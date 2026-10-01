@@ -1,0 +1,15 @@
+/* Threadwalk Privacy Policy — responsive width only.
+   Centers the content and caps its width for desktop, tablet, and mobile.
+   The 92% width leaves a small gap on each side at every screen size
+   (including mobile); margin:auto handles the centering. */
+
+body {
+  margin: 0 auto;
+  width: 92%;
+  max-width: 760px;   /* desktop */
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  body { max-width: 680px; }
+}
