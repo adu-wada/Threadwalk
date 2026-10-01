@@ -1,152 +1,157 @@
-# Privacy Policy
+# Threadwalk Privacy Policy
 
-This privacy policy is applicable to the Threadwalk app for mobile devices, together with any related services operated by Hiroki Wada (collectively, the "Application"). Hiroki Wada is hereinafter referred to as the "Service Provider".
+**Effective date:** October 1, 2026
+**Last updated:** October 1, 2026
 
-## Data Controller Information
+Threadwalk ("the app") is a single-player, offline puzzle game for iOS. It is made by Hiroki Wada, an individual developer ("I", "me"). This policy explains what data the app handles, who collects it, and what choices you have.
 
-Hiroki Wada acts as the Data Controller responsible for the processing of your personal data.
+## Summary
 
-*   Name: Hiroki Wada
-*   Email: adu2018debater@gmail.com
+- The app has no accounts, no login, no chat, and no social features.
+- Your game progress and settings stay on your device. I do not collect them.
+- I do not run any server. I do not receive your personal data.
+- The app shows ads through Google AdMob. Google collects some data to show and measure ads. What Google can do depends on the choices you make.
+- You can change your ad and tracking choices at any time with the **Privacy Options** button on the app's Settings screen.
+- If you buy "Remove Ads", the app permanently stops showing all ads.
 
-For data protection inquiries and to exercise your GDPR rights, please contact the Data Controller using the contact information above.
+## 1. Who I am and how to contact me
 
-## What information does the Application obtain and how is it used?
+The app is developed and published by Hiroki Wada, an individual developer.
+For any privacy question or request, email: **[adu2018debater@gmail.com](mailto:adu2018debater@gmail.com)**
 
-The Application and related services acquire the information you supply when you download, access, or register for the service. Registration with the Service Provider is not mandatory. However, you might not be able to use some of the features offered by the service unless you register.
+I will respond within one month of receiving your request, extendable by up to two further months where necessary due to the complexity or number of requests, as permitted by applicable law.
 
-The Service Provider may also use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
+## 2. Data stored on your device
 
-## Legal basis for processing your personal data
+The app saves your game progress and appearance settings on your device using iOS local storage (UserDefaults). This data:
 
-Where the GDPR applies, the Service Provider relies on one or more lawful bases to process your personal data, including:
+- never leaves your device,
+- is not sent to me or to any server run by me,
+- is not shared with anyone.
 
-*   Contract performance: processing necessary to provide the Application or fulfil a contract with you.
-*   Consent: where you have given explicit consent to processing, including for marketing, analytics, or optional features. You may withdraw consent at any time without affecting processing that occurred before withdrawal.
-*   Legitimate interests: where processing is necessary for the Service Provider's specific legitimate interests, such as maintaining network and information security, preventing fraud and abuse, or improving the Application's core functionality through analytics, provided those interests are not overridden by your data protection rights or fundamental freedoms.
-*   Legal obligation: to comply with laws or government requests.
+## 3. Data I do not collect
 
-## Cookies and similar technologies
+I do not collect, receive, or store any personal data. The app has no developer-run server or backend. I do not use my own analytics or tracking tools. The app does not ask for your name, email address, contacts, photos, or precise (GPS) location.
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, and service delivery. Where required by law, the Service Provider will obtain your consent before using non-essential tracking technologies.
+## 4. Advertising (Google AdMob)
 
-## Automated decision-making and profiling
+The app is free and supported by ads. It shows full-screen (interstitial) ads using the Google Mobile Ads SDK (Google AdMob), provided by Google.
 
-If the Application uses automated decision-making, including profiling, that produces legal effects concerning you or similarly significantly affects you, you have the right to request human review, express your point of view, and contest the decision. Information about the logic involved and the likely consequences of that processing will be provided where required by law.
+When ads are shown, Google may collect the following data directly from your device:
 
-## What information does the Application collect automatically?
+- device advertising identifier (IDFA / device ID), if you allow it,
+- advertising data (for example, ads shown and ads you tap),
+- product interaction data (how you interact with the app and ads),
+- approximate location based on your IP address,
+- diagnostics (crash logs and performance data).
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device's unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+Google uses this data for advertising (including personalized ads if you consent), for analytics and ad measurement, for fraud prevention, and to keep the ad service working. This data goes to Google, not to me. Google handles it under its own policies:
 
-## Does the Application collect precise real time location information of the device?
+- Google Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+- How Google uses information from sites or apps that use its services: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
 
-This Application does not gather precise information about the location of your mobile device.
+The only third-party SDKs in the app are the Google Mobile Ads SDK, the Google User Messaging Platform (UMP) SDK, and Apple's StoreKit.
 
-## Does the Application use Artificial Intelligence (AI) technologies?
+## 5. Advertising identifier (IDFA) and App Tracking Transparency
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+iOS gives each device an advertising identifier (IDFA). The app uses Apple's App Tracking Transparency (ATT) framework to ask your permission before the IDFA can be used for tracking.
 
-## Do third parties see and/or have access to information obtained by the Application?
+- If you **allow** tracking, Google may use the IDFA to show ads based on your interests and to measure ads across apps and websites.
+- If you **do not allow** tracking, the IDFA is not available to the app or to Google, and you will see non-personalized ads.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+## 6. Personalized and non-personalized ads
 
-## International Data Transfers
+- **Personalized ads** are chosen using data about your interests and past activity, including activity in other apps and websites.
+- **Non-personalized ads** are based on general context, such as the app itself and your approximate location. They do not use your past activity to target you. Google may still use some data for frequency capping, reporting, fraud prevention, and diagnostics.
 
-The Service Provider or its third-party service providers may transfer personal data outside the European Economic Area (EEA). Where such transfers occur, the Service Provider will use an appropriate transfer mechanism required by GDPR Chapter V.
+The app uses Google's User Messaging Platform (UMP) to ask for your consent where the law requires it. This includes the consent message for the European Economic Area, the UK, and Switzerland, privacy messages for certain US states, and a message shown before the iOS tracking request.
 
-*   Adequacy decisions by the European Commission
-*   Standard Contractual Clauses (SCCs) approved by the European Commission
-*   Other safeguards or derogations recognized under GDPR Chapter V, including consent where legally permitted
+## 7. Your choices: how to change or withdraw consent
 
-Countries outside the EEA may not provide the same level of data protection as the EEA. Where required by law, the Service Provider will apply appropriate safeguards and obtain any consent required for the transfer.
+You can change your choices at any time:
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+1. **In the app:** open the app's **Settings** screen and tap **Privacy Options**. This lets you review, change, or withdraw your advertising consent at any time, in regions where a consent form applies.
+2. **iOS tracking permission:** open the iOS **Settings** app, go to **Privacy & Security > Tracking**, and turn tracking off for Threadwalk (or for all apps).
+3. **Limit ad personalization on your device:** open the iOS **Settings** app, go to **Privacy & Security > Apple Advertising**, and turn off **Personalized Ads**. This setting controls Apple's own ads. For Google ads in this app, use options 1 and 2.
+4. **Remove Ads:** buying the "Remove Ads" in-app purchase permanently stops all ads in the app (see section 8).
 
-*   [AdMob](https://policies.google.com/technologies/partner-sites)
+If you withdraw consent, it applies from that point on. It does not undo processing that happened before.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+## 8. In-app purchase (Remove Ads)
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information the Service Provider discloses to them, and have agreed to adhere to the rules set forth in this privacy statement.
+The app offers one optional in-app purchase, "Remove Ads". Once the purchase is complete, the app permanently stops showing all ads for you.
 
-Where the GDPR applies, the Service Provider enters into Data Processing Agreements (DPAs) with third-party service providers that process personal data on its behalf, as required by Article 28 of the GDPR. These DPAs impose the same data protection obligations on those service providers as described in this Privacy Policy.
+Apple processes all payments through the App Store and StoreKit. I never receive or store your payment details. The app checks your purchase status on your device through StoreKit. No purchase data is sent to me or to any server I run. Apple handles purchase data under its own policy:
 
-## What are my opt-out rights?
+- Apple Privacy Policy: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
 
-You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
+## 9. Users in the EEA, UK, and Switzerland (GDPR)
 
-To request deletion of your personal data, withdraw consent, or exercise any of your rights, contact the Service Provider at adu2018debater@gmail.com.
+If you are in the European Economic Area, the United Kingdom, or Switzerland, the GDPR (or the UK GDPR and Swiss law) gives you rights over your personal data.
 
-## What is the data retention policy and how can you manage your information?*
+**Legal bases.** Personal data related to ads is collected by Google through the app on these bases:
 
-The Service Provider retains personal data based on its necessity for the stated purposes:
+- **Consent:** for storing or accessing information on your device and for personalized ads. The app asks for this through the Google consent message.
+- **Legitimate interests:** where the law allows, for non-personalized ads, ad measurement, fraud prevention, and diagnostics.
 
-*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
-*   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance or security purposes
-*   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
-*   Data required for legal compliance: Retained as long as required by applicable law
+**Your rights.** You have the right to:
 
-You have the right to request deletion of your personal data at any time, except where retention is required by law. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at adu2018debater@gmail.com and they will respond within the time required by applicable law. Please note that some User Provided Data may be required in order for the Application to function properly.
+- access your personal data,
+- have it corrected or deleted,
+- restrict or object to its processing (including for direct marketing),
+- data portability,
+- withdraw consent at any time (see section 7),
+- lodge a complaint with your local data protection authority.
 
-## How does the Application address children's privacy?
+Because I do not collect or hold your personal data, I usually cannot access or delete ad data myself. Google controls that data. You can manage it through Google's tools described in its privacy policy. You can still contact me at the email above and I will help where I can.
 
-The Application is not intended for children under 16 years of age, or where a higher age of digital consent is established under applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+**Lodging a complaint.** You can contact your local supervisory authority. Contact details for EEA authorities are listed by the European Data Protection Board at [https://edpb.ec.europa.eu/about-edpb/members_en](https://edpb.ec.europa.eu/about-edpb/members_en). If you are in the United Kingdom, you can contact the Information Commissioner's Office at [https://ico.org.uk](https://ico.org.uk).
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age, or where a higher age of digital consent is established by applicable law, in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (adu2018debater@gmail.com) so that they will be able to take the necessary actions.
+## 10. Users in the United States (state privacy laws)
 
-## How is your information kept secure?
+Some US states, such as California (CCPA/CPRA), Virginia, Colorado, Connecticut, and others, give residents rights over personal information.
 
-The Service Provider is committed to safeguarding the confidentiality of your information. The Service Provider implements physical, electronic, and procedural safeguards to protect information it processes and maintains. For example, access is limited to authorized employees and contractors who need to know that information to operate, develop, or improve the Application. However, no security system can prevent all potential security breaches.
+- **No sale for money.** I do not sell personal information for money.
+- **"Sharing" for targeted advertising.** Letting Google collect identifiers and activity data to show personalized ads may count as "sharing" or "selling" personal information, or as "targeted advertising", under some state laws.
+- **Your right to opt out.** You can opt out of this at any time. Open **Settings > Privacy Options** in the app and use the US state privacy option, or turn off tracking in iOS (see section 7).
+- **Other rights.** Depending on your state, you may have the right to know, access, correct, or delete personal information. Because I do not collect or hold personal information myself, most requests about ad data should go to Google. You can also contact me and I will help where I can. You may use an authorized agent to make a request on your behalf.
+- **No discrimination.** Using your rights will not change how the game works for you.
 
-## Data Breach Notification
+## 11. Users in Japan
 
-In the event of a personal data breach that poses a risk to your rights and freedoms, the Service Provider will notify the relevant supervisory authority within 72 hours of becoming aware of the breach, as required by applicable law. Where the breach is likely to result in a high risk to your rights and freedoms, the Service Provider will also notify you without undue delay, providing information about the nature of the breach, the categories of data affected, and the measures taken or proposed to address the breach.
+Japan is the app's primary market. In line with Japan's Act on the Protection of Personal Information (APPI), this section states plainly what data leaves your device and who receives it. I do not obtain your personal information myself. The app transmits the following data to Google, a third party, which processes it for advertising:
 
-## How will you be informed of changes to this Privacy Policy?
+- **Recipient:** Google LLC (through the Google Mobile Ads SDK and the User Messaging Platform SDK)
+- **Information sent:** advertising identifier (if allowed), advertising and interaction data, IP address (used for approximate location), diagnostics
+- **Purpose:** showing and measuring ads, personalized ads where you consent, fraud prevention, and keeping the ad service working
 
-The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
+Google may process this data outside Japan, including in the United States (see section 14). You can change your choices as described in section 7.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at adu2018debater@gmail.com.
+## 12. Children's privacy
 
-This privacy policy is effective as of 2026-09-14
+Threadwalk is a general-audience puzzle game. It is not directed at children under 13 (as defined by the US COPPA) or under 16 (as defined by the GDPR). I do not knowingly collect personal data from children. If you believe a child has provided personal data through the app, contact me and I will help take appropriate steps with Google.
 
-## What are your GDPR data protection rights?
+## 13. Data retention
 
-Under the GDPR, you have the following rights:
+- **On-device data:** your game progress and settings stay on your device until you delete the app.
+- **Ad data:** data collected by Google is kept according to Google's own policies.
+- **Emails you send me:** I keep them only as long as needed to answer your request.
 
-*   Right of Access: You can request access to your personal data.
-*   Right to Rectification: You can request correction of inaccurate data.
-*   Right to Erasure: You can request deletion of your personal data (the "right to be forgotten").
-*   Right to Restrict Processing: You can request that the Data Controller limits how they use your data.
-*   Right to Data Portability: You can request a copy of your data in a structured, commonly used, machine-readable format.
-*   Right to Object: You can object to processing based on legitimate interests. You have an absolute right to object to processing for direct marketing purposes at any time.
-*   Right to Withdraw Consent: Where processing is based on your consent, you can withdraw it at any time. Withdrawal is as simple as toggling preferences in the Application's settings or contacting the Data Controller.
-*   Rights Regarding Automated Decision-Making: You have rights related to automated decisions that affect you.
+## 14. International data transfers
 
-If you believe your data protection rights have been violated, you have the right to lodge a complaint with your local Data Protection Authority. Contact details for each country's Data Protection Authority can be found at:[https://edpb.ec.europa.eu/about-edpb/members_en](https://edpb.ec.europa.eu/about-edpb/members_en)
+Google may process data in countries other than the one you live in, including the United States. Google states that it uses legal safeguards, such as the European Commission's Standard Contractual Clauses, for these transfers. See Google's Privacy Policy for details.
 
-If you are located in the United Kingdom, you may contact the Information Commissioner's Office at[https://ico.org.uk](https://ico.org.uk)
+## 15. Security
 
-## What are your California privacy rights (CCPA/CPRA)?
+I do not operate any server that stores your personal data, so there is no developer-held database to breach. Data saved by the app stays on your device and is protected by iOS and your device's own security (such as your passcode and device encryption). Data collected for ads is transmitted over secure connections and protected by Google under its own security practices. No method of transmission or storage is completely secure, but these measures reduce the risk.
 
-If you are a resident of California, the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA) provide you with additional rights regarding your personal information:
+## 16. Changes to this policy
 
-*   Right to Know: You can request disclosure of the categories and specific pieces of personal information the Service Provider has collected about you.
-*   Right to Delete: You can request deletion of personal information the Service Provider has collected from you, subject to certain exceptions.
-*   Right to Correct: You can request correction of inaccurate personal information.
-*   Right to Opt-Out: You can opt out of the sale or sharing of your personal information for cross-context behavioral advertising.
-*   Right to Limit Use of Sensitive Personal Information: You can limit the use of your sensitive personal information to essential purposes.
-*   Right to Non-Discrimination: The Service Provider will not discriminate against you for exercising any of your CCPA/CPRA rights.
+I may update this policy when the app or the law changes. When I do, I will post the new version at this same web address and change the "Last updated" date at the top. If a change is significant, I will also note it in the app's update notes on the App Store.
 
-To exercise any of these rights, please contact the Service Provider at adu2018debater@gmail.com. The Service Provider will verify your request using the information you provide and respond within the timeframes required by law. You may designate an authorized agent to make a request on your behalf.
+## 17. Contact
 
-## How do you give your consent?
+Hiroki Wada
+Email: [adu2018debater@gmail.com](mailto:adu2018debater@gmail.com)
 
-Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases, including contract performance, legitimate interests, or legal obligations, is carried out as described above.
-
-## How can you contact the Data Controller?
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at adu2018debater@gmail.com.
-
-To request deletion of your personal data or to exercise any of your rights, contact the Service Provider using the details provided above. The Service Provider will respond within one month of receiving your request, extendable by up to two months where necessary due to the complexity or volume of requests, as permitted by applicable law.
+---
